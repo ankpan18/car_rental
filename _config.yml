@@ -1,3 +1,3 @@
 theme: jekyll-theme-slate
-baseurl: "/index.html" # the subpath of your site, e.g. /blog
+baseurl: "index.html" # the subpath of your site, e.g. /blog
 url: "https://ankpan18.github.io/car_rental/" # the base hostname & protocol for your site, e.g. http://example.com
